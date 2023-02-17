@@ -1,0 +1,6 @@
+name: ToggleDrops
+version: '${project.version}'
+main: com.noobcore.toggledrops.ToggleDrops
+api-version: 1.19
+authors: [ JoshJustGames ]
+description: Prevent certain blocks from dropping items based on permissions
