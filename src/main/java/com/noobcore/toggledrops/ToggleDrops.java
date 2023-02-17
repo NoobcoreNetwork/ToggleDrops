@@ -1,6 +1,6 @@
 package com.noobcore.toggledrops;
 
-import drophandler.DropHandler;
+import com.noobcore.toggledrops.drophandler.DropHandler;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public class ToggleDrops extends JavaPlugin {

@@ -1,4 +1,4 @@
-package drophandler;
+package com.noobcore.toggledrops.drophandler;
 
 import org.bukkit.block.Block;
 import org.bukkit.event.EventHandler;
